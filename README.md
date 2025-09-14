@@ -1,8 +1,8 @@
 # stopwatch
 A simple and responsive stopwatch web app built with HTML, CSS, and JavaScript. Features include start, stop, reset, lap recording, and clear functions with time displayed in HH:MM:SS format. Clean UI and lightweight design for easy use and customization.
 
-🕒 Stopwatch Web App
-
+<h2>🕒 Stopwatch Web App</h2>
+<pre>
 A simple web-based stopwatch built using HTML, CSS, and JavaScript.
 This project allows you to:
 
@@ -13,9 +13,9 @@ This project allows you to:
 📝 Record Lap Times
 
 🧹 Clear Recorded Times
-
-✨ Features
-
+</pre>
+<h2>✨ Features</h2>
+<pre>
 Clean and responsive UI
 
 Time displayed in HH:MM:SS format
@@ -23,11 +23,5 @@ Time displayed in HH:MM:SS format
 Lap times stored dynamically below the stopwatch
 
 Prevents multiple Start clicks from running parallel timers
+</pre>
 
-📂 Project Structure
-
-index.html → Structure of the stopwatch
-
-style.css → Styling (with tabs instead of spaces)
-
-script.js → Stopwatch logic
